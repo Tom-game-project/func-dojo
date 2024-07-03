@@ -43,4 +43,5 @@ rustc rust/tarai.rs
 
 ```bash
 ghc haskell/tarai.hs
+./haskell/tarai
 ```

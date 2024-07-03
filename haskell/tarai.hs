@@ -1,6 +1,5 @@
 main = print x
 x = tarai 12 6 0
--- print_hello = putStrLn "Hello world!" 
 
 tarai :: Int -> Int -> Int -> Int
 tarai x y z =
