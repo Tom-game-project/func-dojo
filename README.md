@@ -22,6 +22,12 @@ lua lua/tarai.lua
 python3 python/tarai.py
 ```
 
+- tarai_cache.py (cache有り)
+
+```bash
+python3 python/tarai_cache.py
+```
+
 ## rust
 
 - tarai.rs
