@@ -36,3 +36,11 @@ python3 python/tarai_cache.py
 rustc rust/tarai.rs
 ./tarai
 ```
+
+## haskell
+
+- tarai.hs
+
+```bash
+ghc haskell/tarai.hs
+```
