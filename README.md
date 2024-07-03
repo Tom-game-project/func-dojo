@@ -1,20 +1,20 @@
 # How to run
 
-## javascript
+## Javascript
 
 - tarai.js
 ```bash
 node javascript/tarai.js
 ```  
 
-## lua
+## Lua
 
 - tarai.lua
 ```bash
 lua lua/tarai.lua
 ```
 
-## python
+## Python
 
 - tarai.py
 
@@ -28,7 +28,7 @@ python3 python/tarai.py
 python3 python/tarai_cache.py
 ```
 
-## rust
+## Rust
 
 - tarai.rs
 
@@ -37,7 +37,7 @@ rustc rust/tarai.rs
 ./tarai
 ```
 
-## haskell
+## Haskell
 
 - tarai.hs
 
