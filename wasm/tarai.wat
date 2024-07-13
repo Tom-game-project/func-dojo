@@ -60,10 +60,10 @@
     )
 
     (type $tarai_return (func
-                (param $x i32)
-                (param $y i32)
-                (param $z i32)
-                (result i32)
+        (param $x i32)
+        (param $y i32)
+        (param $z i32)
+        (result i32)
     ))
     (func $tarai
         (param $x i32)
