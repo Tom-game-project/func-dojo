@@ -45,3 +45,8 @@ rustc rust/tarai.rs
 ghc haskell/tarai.hs
 ./haskell/tarai
 ```
+
+# wasm
+```wasm
+wat2wasm 
+```
