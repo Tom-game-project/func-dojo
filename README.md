@@ -47,6 +47,7 @@ ghc haskell/tarai.hs
 ```
 
 # wasm
-```wasm
-wat2wasm 
+```bash
+cd wasm
+wat2wasm tarai.wat
 ```
