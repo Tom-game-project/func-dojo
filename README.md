@@ -48,6 +48,8 @@ ghc haskell/tarai.hs
 
 # wasm
 ```bash
+wat2wasm wasm/tarai.wat -o wasm/tarai.wasm
 cd wasm
-wat2wasm tarai.wat
+python3 -m http.server 8080
 ```
+and access http://0.0.0.0:8080/
